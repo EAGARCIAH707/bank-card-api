@@ -8,9 +8,9 @@ Before running the application, make sure you have the following set up:
 
 - A running PostgreSQL instance.
 - The following environment variables configured:
-    - `DB_URL`: the connection URL for the PostgreSQL database.
-    - `DB_USERNAME`: the username for the database.
-    - `DB_PASSWORD`: the password for the database.
+    - `url`: the connection URL for the PostgreSQL database.
+    - `username`: the username for the database.
+    - `password`: the password for the database.
 
 Ensure that the aforementioned environment variables contain the correct credentials to access the database.
 
